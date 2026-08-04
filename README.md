@@ -1,0 +1,3 @@
+# Week-1 Assignment - JavaScript Case Study.html <br>
+## Case Study focused on developing a bank customer page using JavaScript. In this, you will embark on a practical journey to build a dynamic and interactive webpage that caters specifically to the needs of a bank's customers.The course begins with an introduction to the JavaScript project, where you will explore the essential features of JavaScript and its significance in web development. <br>
+## https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0138419804234465288873_shared/overview
